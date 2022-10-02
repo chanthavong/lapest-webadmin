@@ -4,7 +4,7 @@
 
 ## backgroud 
 
-lap for student UX-UI 
+lap for student architecture design software, UX-UI, Design Thinking, Front End, Backend 
 
 about project for webadmin monitor system CURD, cafe, destination, restaurant
 
