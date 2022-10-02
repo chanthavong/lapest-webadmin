@@ -59,3 +59,7 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+
+
+![image](https://user-images.githubusercontent.com/18229355/193442151-e3216e4c-54e9-45ef-ad09-646ceedadb0f.png)
+
