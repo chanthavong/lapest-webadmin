@@ -1,6 +1,25 @@
-# Nuxt 3 Minimal Starter
+![image](https://avatars.githubusercontent.com/u/114473458?s=60&v=4)
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+# Lapest web admin
+
+## backgroud 
+
+lap for student UX-UI 
+
+about project for webadmin monitor system CURD, cafe, destination, restaurant
+
+## docs
+
+
+[Miro Board](https://miro.com/welcomeonboard/dzJ5cks1UjBDaDdQNUhOQWl0Q1JoOTdLQkJ1eEhHU3QzZFEzNVdyaEJTYWQySUxpcXJCWDJGa3BGV2dGT2ZURnwzMDc0NDU3MzY0OTg3MjQxMDQyfDI=?share_link_id=925977835949)
+
+
+[Project Task](https://github.com/orgs/lapest/projects/1)
+
+[Figma App-WEB UX-UI ](https://www.figma.com/team_invite/redeem/cgPGTzXG0NJKXvuaG1svSJ)
+
+
+
 
 ## Setup
 
