@@ -6,7 +6,7 @@
     "
   >
     <div
-      class="absolute bg-gradient-to-b from-yellow-50 to-yellow-50 opacity-75 inset-0 z-0"
+      class="absolute bg-gradient-to-b from-yellow-50 to-yellow-50 opacity-20 inset-0 z-0"
     />
 
     <div
@@ -21,7 +21,7 @@
             Hi ? Welcome Back
           </h1>
           <p class="pr-3">
-            Small and Medium Enterprises Accounting Website
+            Lapest Enterprises , Cafe, Destination And restaurant
           </p>
         </div>
       </div>
@@ -31,8 +31,8 @@
             class="backdrop-blur-2xl max-w-xl bg-white/90 p-12 rounded-2xl flex flex-col w-full gap-y-4"
           >
             <div class="flex flex-col items-center gap-2 text-2xl mb-8">
-              <span>Sign In</span>
-              <span class="text-sm text-gray-400 font-light">Please sign in to your account.</span>
+              <span>Sign In Your Account</span>
+              <span class="text-sm text-gray-400 font-light">Access to web admin monitor.</span>
             </div>
             <div class="flex flex-col gap-4">
               <div class="flex flex-col gap-2">
